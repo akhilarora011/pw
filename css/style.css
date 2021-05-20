@@ -1,0 +1,106 @@
+body {
+
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+#p1 {
+  font-size: 30px;
+  color:#66BFBF;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
+h1{
+  color: #66BFBF;
+  font-size: 90px;
+  margin : 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+a {
+  font-family: 'Merriweather', serif;
+  color: #66BFBF ;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+
+
+
+
+
+.hr1 {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none ;
+  width: 6%;
+}
+
+
+
+
+
+.top {
+  background-color:#EAF6F6;
+  padding-top: 100px;
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.middle-container {
+  margin-top: 30px;
+}
+.bottom-container {
+  margin-top: 0;
+}
+
+.main-img {
+  height: 250px;
+  width: 250px;
+}
+.pp {
+  height: 300px;
+  width : 300px ;
+  border-radius:50%;
+  overflow:hidden;
+}
+.skill-row {
+  width: 50% ;
+  margin: 80px auto 120px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computer-image{
+  width: 25% ;
+  float: left;
+  margin-right: 30px;
+    border-radius:50%;
+    overflow:hidden;
+}
+.chilli-image {
+  width: 25% ;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me {
+  background-color: #EAF6F6 ;
+  line-height: 2;
+}
+.bottom-container
+{
+  background-color: #EAF6F6 ;
+  line-height: 2;
+}
+.profile {
+  margin-bottom: 50px;
+}
+.p-bottom {
+  margin-bottom: 0;
+}
